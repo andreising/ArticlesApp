@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MakalelerUygulama</string>
+    <string name="article">madde</string>
+    <string name="written_articles">yazılı makaleler</string>
+    <string name="favourites">Favoriler</string>
+    <string name="write_article">makale yaz</string>
+    <string name="onboard_title">Doğrudan uygulamada yazma becerilerinizi geliştirin, makaleler oluşturun ve düzenleyin</string>
+    <string name="start">Başlangıç</string>
+    <string name="search">aramak</string>
+    <string name="edit_article">Makaleyi Düzenle</string>
+    <string name="title">Başlık</string>
+    <string name="text">Metin</string>
+    <string name="select_img">fotoğraf seç</string>
+    <string name="no_image">(görüntü yok)</string>
+    <string name="no_articles">Henüz makale yok</string>
+    <string name="fav_articles">Favori makaleler</string>
+</resources>

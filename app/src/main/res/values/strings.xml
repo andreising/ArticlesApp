@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArticlesApp</string>
+    <string name="article">article</string>
+    <string name="written_articles">written articles</string>
+    <string name="favourites">favourites</string>
+    <string name="write_article">write article</string>
+    <string name="onboard_title">Train your writing skills, create and edit articles right in the app</string>
+    <string name="start">Start</string>
+    <string name="search">search</string>
+    <string name="edit_article">Edit Article</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="select_img">select image</string>
+    <string name="no_image">(no image)</string>
+    <string name="no_articles">There are no articles yet</string>
+    <string name="fav_articles">Favourite articles</string>
+</resources>

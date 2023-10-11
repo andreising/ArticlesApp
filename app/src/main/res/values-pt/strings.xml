@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArtigosApp</string>
+    <string name="article">artigo</string>
+    <string name="written_articles">artigos escritos</string>
+    <string name="favourites">favoritos</string>
+    <string name="write_article">escrever artigo</string>
+    <string name="onboard_title">Treine suas habilidades de escrita, crie e edite artigos diretamente no aplicativo</string>
+    <string name="start">Começar</string>
+    <string name="search">procurar</string>
+    <string name="edit_article">Editar artigo</string>
+    <string name="title">Título</string>
+    <string name="text">Texto</string>
+    <string name="select_img">selecione a imagem</string>
+    <string name="no_image">(sem imagem)</string>
+    <string name="no_articles">Ainda não há artigos</string>
+    <string name="fav_articles">Artigos favoritos</string>
+</resources>

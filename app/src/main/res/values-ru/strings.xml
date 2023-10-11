@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">СтатьиПриложение</string>
+    <string name="article">статья</string>
+    <string name="written_articles">письменные статьи</string>
+    <string name="favourites">избранное</string>
+    <string name="write_article">написать статью</string>
+    <string name="onboard_title">Тренируйте свои навыки письма, создавайте и редактируйте статьи прямо в приложении.</string>
+    <string name="start">Начинать</string>
+    <string name="search">поиск</string>
+    <string name="edit_article">Редактировать статью</string>
+    <string name="title">Заголовок</string>
+    <string name="text">Текст</string>
+    <string name="select_img">выбрать изображение</string>
+    <string name="no_image">(нет изображения)</string>
+    <string name="no_articles">Пока нет статей</string>
+    <string name="fav_articles">Любимые статьи</string>
+</resources>
